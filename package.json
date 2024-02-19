@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "Salesflow Coach Reborn",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "Salesflow Coach reborn with new theme",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
@@ -15,7 +15,8 @@
     "gatsby": "^5.0.1",
     "gatsby-theme-portfolio-minimal": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0"
   },
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
@@ -39,5 +40,10 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ]
+  ],
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "@types/react": "^18.2.56",
+    "typescript": "^5.3.3"
+  }
 }
