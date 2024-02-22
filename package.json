@@ -11,23 +11,16 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "dependencies": {
-    "gatsby": "^5.0.1",
-    "gatsby-theme-portfolio-minimal": "latest",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-helmet": "^6.1.0"
-  },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "John Kim Querobines <jkim.querobines@gmail.com>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "homepage": "https://github.com/Kerubi-5/sfc-reborn#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": "https://github.com/Kerubi-5/sfc-reborn.git"
   },
   "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+    "url": "https://github.com/Kerubi-5/sfc-reborn/issues"
   },
   "keywords": [
     "react",
@@ -41,9 +34,17 @@
     "dark-mode",
     "gdpr-compliant"
   ],
+  "dependencies": {
+    "gatsby": "^5.0.1",
+    "gatsby-theme-portfolio-minimal": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0"
+  },
   "devDependencies": {
     "@types/node": "^20.11.19",
     "@types/react": "^18.2.56",
+    "@types/react-helmet": "^6.1.11",
     "typescript": "^5.3.3"
   }
 }

@@ -1,5 +1,7 @@
 import React from 'react';
-import { LegalSection, Page, Seo } from 'gatsby-theme-portfolio-minimal';
+import { Seo } from '../components/Seo';
+import { LegalSection } from '../sections/Legal';
+import { Page } from '../components/Page';
 
 export default function ImprintPage() {
   return (

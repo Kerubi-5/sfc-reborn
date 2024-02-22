@@ -3,7 +3,7 @@ import type { GatsbyConfig } from 'gatsby';
 const siteMetadata = {
   title: 'Salesflow Coach',
   description: `Built by Martin Stellar`,
-  siteUrl: `https://salesflowcoach.app`;
+  siteUrl: `https://salesflowcoach.app`,
 };
 
 const config = {

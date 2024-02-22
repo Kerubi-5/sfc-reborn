@@ -51,4 +51,8 @@ Thanks a lot for using this starter! 💪
 
 <a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-Konstantin Münster – [konstantin.digital](https://konstantin.digital)
+Martin Stellar – [konstantin.digital](https://konstantin.digital)
+
+/home/u1824-2yjyp3gugbsx/www/reborn.salesflowcoach.app/public_html
+
+rsync -avze 'ssh -p 18765' './' u1824-2yjyp3gugbsx@gukm1012.siteground.biz:'/home/u1824-2yjyp3gugbsx/www/reborn.salesflowcoach.app/public_html/'
