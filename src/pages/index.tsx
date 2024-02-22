@@ -1,11 +1,6 @@
 import React from 'react';
-import { AboutSection } from '../sections/About';
-import { ArticlesSection } from '../sections/Articles';
-import { ContactSection } from '../sections/Contact';
 import { HeroSection } from '../sections/Hero';
-import { InterestsSection } from '../sections/Interests';
 import { Page } from '../components/Page';
-import { ProjectsSection } from '../sections/Projects';
 import { Seo } from '../components/Seo';
 
 export default function IndexPage() {

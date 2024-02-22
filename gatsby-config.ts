@@ -8,6 +8,7 @@ const siteMetadata = {
 
 const config = {
   siteMetadata,
+  graphqlTypegen: true,
   plugins: [
     {
       resolve: 'gatsby-theme-portfolio-minimal',
